@@ -11,6 +11,12 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("Hollo World");
+            Console.WriteLine("GG");
+
+            Console.WriteLine("Hollo World");
+            Console.WriteLine("GG");
+            Console.WriteLine("Hollo World");
+            Console.WriteLine("GG");
         }
     }
 }
